@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Google app est Automation1"> 
+ <test name = "Google test">
+     <parameter name="url" value="https://gmail.com/"/>
+		<parameter name="emailId" value="indu13d"/>
+		
+		<classes>
+		   <class name="com.amazon.testngFrameworl.GoogleTest"/>
+		   </classes>
+
+	</test>
+</suite>
